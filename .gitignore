@@ -1,0 +1,8 @@
+.miniconda3
+.venv
+.idea
+.ipynb_checkpoints
+aquatic_interview_solution.patch
+__pycache__
+miniconda.sh
+.DS_Store*
